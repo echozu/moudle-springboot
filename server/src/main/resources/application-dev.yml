@@ -1,0 +1,14 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: blog #todo：数据库的名字
+    username: root
+    password: 123456
+
+  redis:
+    host: localhost
+    port: 6379
+    database: 10
+
